@@ -1,0 +1,6 @@
+{
+  "name": "CorreoVault",
+  "description": "Gestor seguro de correos y contraseñas con encriptación AES-256, organización personalizada y exportación PDF/PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
